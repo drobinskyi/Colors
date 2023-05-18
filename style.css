@@ -38,6 +38,7 @@ body {
     font-size: 1.5rem;
     color: white;
     transition: background 0.3s;
+    outline: none;
 }
 
 .col button:hover {
